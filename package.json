@@ -1,18 +1,26 @@
 {
   "name": "unieye",
   "displayName": "UniEye",
-  "description": "A vintage, retro, dark, vibrant, contrast, indigo theme.",
+  "description": "A vintage, retro, dark, vibrant, contrast, indigo vscode theme",
   "version": "0.2.2",
   "publisher": "hbthen3rd",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hbthen3rd/unieye-vscode.git"
   },
+  "license": "SEE LICENSE IN LICENSE>",
   "engines": {
     "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Unicorn",
+    "Indigo",
+    "Retro",
+    "Purple",
+    "Contrast"
   ],
   "contributes": {
     "themes": [
