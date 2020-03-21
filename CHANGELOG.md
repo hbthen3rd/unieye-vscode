@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.3.0
+
+- List's inactive selection background color
+
 ### 0.2.2
 
 - Banner color
@@ -11,7 +15,7 @@
 
 ### 0.2.0
 
-- Gitdecoration color
+- Git decoration color
 
 ### 0.1.1
 

@@ -1,8 +1,8 @@
 {
   "name": "unieye",
   "displayName": "UniEye",
-  "description": "A vintage, retro, dark, vibrant, contrast, indigo vscode theme",
-  "version": "0.2.2",
+  "description": "A vintage, retro, dark, vibrant, contrast, indigo Visual Studio Code theme",
+  "version": "0.3.0",
   "publisher": "hbthen3rd",
   "repository": {
     "type": "git",
