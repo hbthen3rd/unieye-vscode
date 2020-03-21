@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.3.1
+
+- Recommended extensions, fonts
+
 ### 0.3.0
 
 - List's inactive selection background color
