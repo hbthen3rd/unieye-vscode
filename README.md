@@ -16,8 +16,11 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 - [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for Terminal emulator)
 
 ```json
+  "workbench.colorTheme": "UniEye",
+  "workbench.iconTheme": "vscode-icons",
   "editor.fontFamily": "'Cascadia Code', monospace",
   "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font', monospace",
+  "editor.fontLigatures": true,
 ```
 
 ### Screenshot
