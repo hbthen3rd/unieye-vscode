@@ -1,0 +1,31 @@
+{
+  "name": "unieye",
+  "displayName": "UniEye",
+  "description": "A vintage, retro, dark, vibrant, contrast, indigo theme.",
+  "version": "0.2.2",
+  "publisher": "hbthen3rd",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "UniEye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/UniEye-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "theme": "dark",
+    "color": "#7040FF"
+  },
+  "icon": "UniEye_logo.png"
+}
