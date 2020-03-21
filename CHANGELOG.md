@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.3.3
+
+- Recommended extensions, fonts, settings, extras
+
 ### 0.3.2
 
 - Recommended extensions, fonts, settings

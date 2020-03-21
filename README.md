@@ -2,7 +2,7 @@
 
 Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
-**Currently a beta :)**
+**Currently a beta 😉**
 
 ### Recommended extensions:
 
@@ -15,6 +15,8 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) (for IDE)
 - [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for Terminal emulator)
 
+### Recommended settings:
+
 ```json
   "workbench.colorTheme": "UniEye",
   "workbench.iconTheme": "vscode-icons",
@@ -23,6 +25,10 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
   "editor.fontLigatures": true,
 ```
 
-### Screenshot
+### Bonus:
+
+- [UniEye for macOS' Terminal.app](https://github.com/hbthen3rd/unieye-terminalapp)
+
+## Screenshot
 
 ![UniEye for Visual Studio Code screenshot](/UniEye_Visual-Studio-Code.png?raw=true 'UniEye for Visual Studio Code screenshot')
