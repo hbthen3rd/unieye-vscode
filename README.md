@@ -20,14 +20,19 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 ```json
   "workbench.colorTheme": "UniEye",
   "workbench.iconTheme": "vscode-icons",
-  "editor.fontFamily": "'Cascadia Code', monospace",
-  "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font', monospace",
+  "editor.fontFamily": "'Cascadia Code', 'SF Mono', Monaco, 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro', Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font', 'SF Mono', Monaco, 'Fira Mono', 'Droid Sans Mono', 'Source Code Pro', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
 ```
 
-### Bonus:
+### UniEye family:
 
+- **UniEye for Visual Studio Code**
 - [UniEye for macOS' Terminal.app](https://github.com/hbthen3rd/unieye-terminalapp)
+- _UniEye for Hyper.js_ (coming soon)
+- _UniEye for GNOME Terminal_ (coming soon)
+- _UniEye for Windows Terminal_ (coming soon)
+- _UniEye for iTerm2_ (coming soon)
 
 ## Screenshot
 
