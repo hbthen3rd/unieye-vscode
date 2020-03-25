@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.3.6
+
+- Screenshot
+
 ### 0.3.5
 
 - Recommended extensions, fonts, settings, extras
