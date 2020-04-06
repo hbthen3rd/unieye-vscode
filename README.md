@@ -14,6 +14,7 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) (for IDE)
 - [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for Terminal emulator)
+  - **_Basically [Cascadia Code](https://github.com/microsoft/cascadia-code) patched with [Nerd Font](https://github.com/ryanoasis/nerd-fonts)_**
 
 ### Recommended settings:
 
