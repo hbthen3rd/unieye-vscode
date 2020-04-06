@@ -1,8 +1,8 @@
 # Change Log
 
-### 1.0.2
+### 1.0.3
 
-- Update Screenshot
+- Update screenshots
 
 ### 1.0.0
 
