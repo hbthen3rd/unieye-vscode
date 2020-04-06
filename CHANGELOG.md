@@ -1,18 +1,14 @@
 # Change Log
 
-### 1.0.3
+### 1.1.0
 
-- Update screenshots
+- Update TextMate theme
 
 ### 1.0.0
 
 - Switch to TextMate tokens
   - Completely different grammar tokens compare to version 0.x
 - Adjust Black, Green, and Magenta color
-
-### 0.3.6
-
-- Screenshot
 
 ### 0.3.5
 
