@@ -37,4 +37,6 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
 ## Screenshot
 
-![UniEye for Visual Studio Code screenshot](/UniEye_Visual-Studio-Code.png?raw=true 'UniEye for Visual Studio Code screenshot')
+![UniEye for Visual Studio Code macOS](/UniEye_Visual-Studio-Code_macOS.png?raw=true 'UniEye for Visual Studio Code macOS')
+
+![UniEye for Visual Studio Code Windows](/UniEye_Visual-Studio-Code_Windows.png?raw=true 'UniEye for Visual Studio Code Windows')
