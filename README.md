@@ -4,17 +4,17 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 
 **Currently a beta 😉**
 
-### Recommended extensions:
-
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-
 ### Recommended fonts:
 
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) (for IDE)
 - [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for Terminal emulator)
   - **_Basically [Cascadia Code](https://github.com/microsoft/cascadia-code) patched with [Nerd Font](https://github.com/ryanoasis/nerd-fonts)_**
+
+### Recommended extensions:
+
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ### Recommended settings:
 
